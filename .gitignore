@@ -61,10 +61,6 @@ sysinfo.txt
 *.unitypackage
 *.app
 
-# Ignore ShaderLab files
-*.shader
-*.cginc
-
 # Crashlytics generated file
 crashlytics-build.properties
 
